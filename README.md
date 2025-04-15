@@ -30,4 +30,3 @@
 /docs       # Design docs, brand assets  
 /design     # Wireframes, mockups  
 
-Set up README overview
